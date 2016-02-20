@@ -1,0 +1,11 @@
+[package]
+name = "type-extend"
+version = "0.1.0"
+authors = ["KokaKiwi <kokakiwi@kokakiwi.net>"]
+license = "MIT"
+
+[lib]
+plugin = true
+
+[dependencies]
+aster = "0.13.1"
